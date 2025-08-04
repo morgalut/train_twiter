@@ -23,6 +23,10 @@ Design, build, and deploy an AI-powered system that automatically classifies and
   * Identify data quality issues and document findings.
 
 ---
+## Link For Data
+```
+https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
+```
 
 ### **Step 2: Feature Engineering**
 
